@@ -1,0 +1,16 @@
+//
+//  SoundCloudWaveViewDemo-Prefix.pch
+//  SoundCloudWaveViewDemo
+//
+//  Created by Kitten x iDaily on 16/5/20.
+//  Copyright © 2016年 KittenYang. All rights reserved.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#import "UIView+Layout.h"
+#import "UIColor+Hex.h"
+#endif
+
+
